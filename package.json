@@ -29,7 +29,9 @@
   "dependencies": {
     "passport": "^0.3.2",
     "strong-globalize": "^2.6.2",
-    "underscore": "^1.8.3"
+    "underscore": "^1.8.3",
+    "uid2": "^0.0.3",
+    "utils-merge": "^1.0.0"
   },
   "devDependencies": {
     "eslint": "^2.13.1",
